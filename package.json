@@ -1,0 +1,26 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samay2006/live-location-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samay2006/live-location-tracker/issues"
+  },
+  "homepage": "https://github.com/Samay2006/live-location-tracker#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
